@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397074673008",
+    "project_id": "rest-bf838",
+    "storage_bucket": "rest-bf838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397074673008:android:93c15b01dbbcaead63b3b5",
+        "android_client_info": {
+          "package_name": "com.app.restaurant0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397074673008-d6qb8hn3p4mk809fsi6b7b6d3u6uph5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuKqwmA18DWIe2BxB-JHqJCkDH7-YKoIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397074673008-d6qb8hn3p4mk809fsi6b7b6d3u6uph5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
